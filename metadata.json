@@ -1,0 +1,7 @@
+{
+  "name": "Jin Fangbo - AI Product Manager Resume",
+  "description": "Interactive 3D web resume for Jin Fangbo, featuring an AI-powered personal assistant chatbot, portfolio showcase, and professional experience timeline.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
